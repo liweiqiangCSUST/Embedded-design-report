@@ -1,0 +1,4 @@
+hello:hello.c
+	gcc hello.c -o ubuntu_hello.out
+clean:
+	rm -rf ubuntu_hello.out

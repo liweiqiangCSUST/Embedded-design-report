@@ -1,0 +1,4 @@
+armhello:hello.c
+	arm-linux-gnueabihf-gcc hello.c -o IMX6_hello.out
+clean:
+	rm -rf IMX6_hello.out
