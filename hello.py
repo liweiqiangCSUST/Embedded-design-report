@@ -1,0 +1,1 @@
+print("Hello world! ck202203060247\n")
